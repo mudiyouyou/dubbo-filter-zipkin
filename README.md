@@ -1,2 +1,1 @@
-# zipkin-spring-boot-starter
-`Dubbo filter with zipkin`
+# Dubbo filter with zipkin
