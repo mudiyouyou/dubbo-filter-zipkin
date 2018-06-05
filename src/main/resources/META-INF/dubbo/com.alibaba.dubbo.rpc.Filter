@@ -1,0 +1,2 @@
+DubboBraveConsumerFilter=com.yufusoft.boot.tracing.dubbo.filter.DubboBraveConsumerFilter
+DubboBraveProviderFilter=com.yufusoft.boot.tracing.dubbo.filter.DubboBraveProviderFilter
