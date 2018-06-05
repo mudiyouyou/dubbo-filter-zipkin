@@ -1,2 +1,2 @@
 # zipkin-spring-boot-starter
-`Dubbo on springboot uses zipkin to log`
+`Dubbo filter with zipkin`
